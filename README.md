@@ -46,7 +46,6 @@
 
 </div>
 <div align="justify">
-<i><b>Olá</b> :wave:, sou o <code>Bruce</code>, tenho 20 anos, moro em BH e sou apostador esportivo de alto risco. Atualmente sou <code>apostador</code> na beatno, bet365 e esporte da sorte do <a href="https://newtonpaiva.br/" target="_blank">Centro Universitário Newton Paiva</a> e também nos cursos de Engenharia de Software e Ciência da Computação da <a href="https://www.pucminas.br/" target="_blank">PUC Minas</a>.</i> :man_teacher:<br />
-</div>
+<i><b>Olá</b> :wave:, sou o <code>Bruce</code>, tenho 20 anos, moro em BH e sou apostador esportivo de alto risco. Atualmente sou <code>apostador</code> na beatno, bet365 e esporte da sorte.
 
 -----
